@@ -4,6 +4,7 @@ import sketch03 from './03';
 import sketch04 from './04';
 import sketch05 from './05';
 import sketch06 from './06';
+import sketch07 from './07';
 
 export {
     sketch01,
@@ -12,4 +13,5 @@ export {
     sketch04,
     sketch05,
     sketch06,
+    sketch07,
 };
