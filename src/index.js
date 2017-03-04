@@ -1,4 +1,6 @@
 import './index.css';
+import './googleAnalytics';
+
 import * as sketches from './sketches';
 import Navigo from 'navigo';
 
