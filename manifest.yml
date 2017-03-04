@@ -1,0 +1,10 @@
+---
+applications:
+ - name: sketches
+   memory: 64M
+   buildpack: staticfile_buildpack
+   path: ./dist
+   routes:
+     - route: sketches.cfapps.io
+   env:
+     FORCE_HTTPS: true
